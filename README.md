@@ -1,3 +1,11 @@
+how to update project to github
+
+1. check your source control
+2. if you have file need to commit, please click commit logo on top bar
+3. provide your commit info
+4. run this command in terminal
+   "git push origin master"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
